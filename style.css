@@ -1,0 +1,23 @@
+.slide-image-1 {
+    background-image: url(./images/banner.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: .75;
+}
+
+.slide-image-2 {
+    background-image: url(./images/people.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: .75;
+}
+
+.slide-image-3 {
+    background-image: url(./images/wedding.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    opacity: .75;
+}
